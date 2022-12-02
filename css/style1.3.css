@@ -316,11 +316,6 @@ button{
     display: inline-block;
     transform: translate(1vw, 10px);
    }
-
-   .list__item:nth-child(6),
-   .list__item:nth-child(7){
-    margin-top: 5px;
-   }
 }
   
 @media(min-width: 1120px){
